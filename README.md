@@ -4,9 +4,11 @@
 Welcome to Creative Design - where expert design meets exceptional service to craft inspirational spaces. This repository showcases a responsive and visually engaging website built with HTML, CSS, and JavaScript.
 
 **Overview**
+
 Creative Design is a modern and sleek website designed to showcase the portfolio and services of a design studio. With smooth scrolling animations, dynamic content, and a visually striking design, this website aims to captivate visitors and highlight the creativity and professionalism of the studio.
 
 **Features**
+
 Responsive Design: The website is fully responsive, ensuring a seamless experience across all devices and screen sizes.
 Smooth Scrolling: Utilizing Locomotive Scroll, the website features smooth scrolling animations that enhance user engagement and navigation.
 Dynamic Content: Engaging moving text sections dynamically showcase various aspects of the studio's expertise and services.
